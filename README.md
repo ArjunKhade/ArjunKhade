@@ -5,8 +5,8 @@
 **Full Stack Developer**
 
 [![Email](https://img.shields.io/badge/khadearjun@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khadearjun@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-khade)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-khade-ba825017b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRbsn777DR36IjE48WV4fPg%3D%3D)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://arjunkhade.github.io/modern-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ArjunKhade)
 
 </div>
@@ -107,13 +107,14 @@ Working on a healthcare domain platform:
 - ☕ **HackerBeen Java Full Stack** — 2026
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunKhade&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunKhade&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArjunKhade&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
