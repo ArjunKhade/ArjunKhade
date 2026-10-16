@@ -1,172 +1,191 @@
-<!-- ═══════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════
      Arjun Khade · GitHub Profile README
-     Drop this file into: github.com/ArjunKhade/ArjunKhade
-     ═══════════════════════════════════════════════════════════ -->
+     Repository: github.com/ArjunKhade/ArjunKhade
+     Palette: lavender #7F7FD5 · sky #86A8E7 · mint #5EEAD4
+     ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
- ▄▀█ █▀█ ░░█ █░█ █▄░█   █▄▀ █░█ ▄▀█ █▀▄ █▀▀
- █▀█ █▀▄ █▄█ █▄█ █░▀█   █░█ █▀█ █▀█ █▄▀ ██▄
-```
+<!-- Animated gradient wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:5EEAD4&height=200&section=header&text=Arjun%20Khade&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Angular%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservices&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
 
-### `$ whoami` → Full Stack Developer · 3.5+ years · Pune, India
+<!-- Animated typing text -->
+<a href="https://modern-portfolio-eight-tawny.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7F7FD5&center=true&vCenter=true&width=780&lines=Full+Stack+Engineer+%7C+3.9%2B+Years+in+Production;Building+Scalable+Healthcare+%26+SaaS+Platforms;Angular+v13+%E2%86%92+v21+%7C+Signals+%26+Zoneless;Event-Driven+Microservices+with+Java+17+%26+Kafka;Offline-First+PWAs+%26+High-Performance+UIs" alt="Typing SVG" />
+</a>
 
-[![Email](https://img.shields.io/badge/khadearjun@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khadearjun@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-khade-ba825017b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://arjunkhade.github.io/modern-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArjunKhade)
+<br/>
+
+<!-- Quick links -->
+<p align="center">
+  <a href="https://modern-portfolio-eight-tawny.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-7F7FD5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arjun-khade-ba825017b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-86A8E7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:khadearjun@gmail.com"><img src="https://img.shields.io/badge/Email-5EEAD4?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email" /></a>
+  <a href="https://github.com/ArjunKhade" target="_blank"><img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<!-- Status bar -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Pune,_India-1e293b?style=flat-square&labelColor=0f172a" alt="Location" />
+  <img src="https://img.shields.io/badge/💼_3.9%2B_Years_Experience-1e293b?style=flat-square&labelColor=0f172a" alt="Experience" />
+  <img src="https://img.shields.io/badge/🟢_Open_to_Full_Stack_%2F_Frontend_Roles-0f766e?style=flat-square&labelColor=0f172a" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=ArjunKhade&label=Profile%20Views&color=7F7FD5&style=flat-square" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## `const arjun = { ... }`
+## 👋 About Me
 
-```js
-const arjun = {
-  name     : "Arjun Khade",
-  role     : "Full Stack Developer",
-  exp      :  3.5,              // years in production
-  domain   : "Healthcare · Enterprise SaaS",
-  coreStack: ["Angular", "TypeScript", "RxJS", "NgRx", "Spring Boot", "Java", "MySQL"],
-  passions : ["PWA Engineering", "Angular Architecture", "Microservices", "DX"],
-  available:  true,             // 👋 open to Frontend / Full Stack opportunities
+```typescript
+const arjunKhade = {
+  role            : "Full Stack Software Developer",
+  location        : "Pune, India",
+  experienceYears : 3.9,
+  domain          : ["Enterprise Healthcare (EHR / EVV)", "IDD & Behavioral Health", "Cloud SaaS"],
+  frontend        : ["Angular (v13 → v21)", "TypeScript", "RxJS", "NgRx", "Signals", "React"],
+  backend         : ["Java 17", "Spring Boot", "Spring Cloud", "Spring Security", "JPA", "Kafka"],
+  architecture    : ["Microservices", "Offline-First PWAs", "Zoneless Angular", "OAuth2 / PKCE", "REST APIs"],
+  currentFocus    : "Event-driven AI microservices & high-performance reactive web apps",
+  funFact         : "I enjoy turning slow, legacy screens into fast, delightful ones ⚡"
 };
 ```
 
 ---
 
-## `$ git log --stat` → Key Achievements
-
-| # | Achievement | Impact |
-|---|-------------|--------|
-| 🚀 | **Angular v13 → v21 migration** — zero-downtime, backward-compatible across a production healthcare platform | Standalone components · Signals · zoneless change detection |
-| 📱 | **EVV Progressive Web App** — offline-first healthcare field tool with Service Workers, Workbox, background sync & encrypted local storage | Field-ready with zero connectivity dependency |
-| 🧩 | **50+ Reusable UI Components** — modular library used across the entire application | Accelerated feature delivery significantly |
-| ⚡ | **30–45% Performance Gains** — lazy loading, OnPush, RxJS optimization, debouncing, bundle splitting | Measurable Lighthouse score improvements |
-
----
-
-## `$ cat tech-stack.json`
-
-### ⬡ Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=redux&logoColor=white)
-![Angular Signals](https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### ⬡ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square)
-
-### ⬡ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-### ⬡ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## `$ ls -la projects/`
-
-<details>
-<summary><b>🤖 AI-Powered Fitness Platform — Spring Boot Microservices</b></summary>
-<br>
-
-> A production-grade microservices system with independently deployable services, real-time AI recommendations, and enterprise-grade auth.
-
-**Architecture highlights:**
-- **Event-driven** with Apache Kafka — Activity Service produces events, AI Service consumes and triggers Google Gemini AI
-- **Auth** via Keycloak (OAuth2 + PKCE), centralized through Spring Cloud Gateway + Eureka service discovery
-- **Database-per-service** — PostgreSQL for relational data, MongoDB for activity logs
-- **Containerized** Kafka and Keycloak with Docker; React frontend via API Gateway
-
-**Stack:**
-`Java 17` · `Spring Boot` · `Spring Cloud` · `Kafka` · `Keycloak` · `OAuth2` · `Google Gemini AI` · `PostgreSQL` · `MongoDB` · `Docker` · `React`
-
-</details>
-
-<details>
-<summary><b>📱 Electronic Visit Verification (EVV) PWA — Healthcare</b></summary>
-<br>
-
-> Offline-first Progressive Web App for healthcare field workers with zero connectivity dependency.
-
-- Service Workers with Workbox caching strategies
-- Background sync for deferred data submission
-- Encrypted local data persistence for HIPAA-sensitive capture
-- Angular standalone components with Signal-based reactivity
-
-**Stack:**
-`Angular` · `TypeScript` · `Service Workers` · `Workbox` · `IndexedDB` · `Spring Boot`
-
-</details>
-
----
-
-## `$ history | grep experience`
-
-```
-2021–present   Software Developer 
-               └── Healthcare platform
-               └── Angular v13 → v15 → v18 → v21 (zero regressions)
-               └── EVV PWA · 50+ components · 30–45% perf gains
-               └── RxJS reactive patterns · OnPush · lazy loading
-               └── NgRx state management · Signals · standalone arch
-```
-
----
-
-## `$ cat education.txt`
-
-```
-[2022]  Post Graduate Diploma in Advanced Computing (PG-DAC)
-        CDAC ACTS, Pune
-
-[2019]  B.Tech / B.E.
-        Savitribai Phule Pune University
-```
-
----
-
-## `$ ls certifications/`
-
-```
-✅  Angular Intermediate          — HackerRank       2026
-✅  Namaste React                 — Akshay Saini     2025
-✅  Namaste JavaScript            — Akshay Saini     2025
-✅  HackerBeen Java Full Stack    — HackerBeen       2026
-```
-
----
-
-## `$ ./stats.sh`
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunKhade&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&icon_color=7ee787&text_color=c9d1d9)
+**Frontend**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunKhade&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&text_color=c9d1d9)
+<img src="https://skillicons.dev/icons?i=angular,ts,js,react,redux,rxjs,ngrx,tailwind,sass,html,css,materialui&perline=12&theme=dark" alt="Frontend" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArjunKhade&theme=github-dark-blue&hide_border=true&background=0d1117&ring=d2a8ff&fire=ffa657&currStreakLabel=7ee787)](https://git.io/streak-stats)
+**Backend & Messaging**
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,nodejs,express&perline=12&theme=dark" alt="Backend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=12&theme=dark" alt="Databases" />
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,git,github,bitbucket,postman,jest,vite,vercel,vscode&perline=13&theme=dark" alt="DevOps and Tools" />
+
+</div>
+
+---
+
+## 🏆 Engineering Impact
+
+<div align="center">
+
+| Metric | Initiative | Impact |
+| :--- | :--- | :--- |
+| 🚀 **`v13 → v21`** | **Zero-Downtime Angular Migration** | Led end-to-end migration of production healthcare apps to **Standalone Components**, **Signals**, built-in **Control Flow** and **Zoneless** change detection. |
+| ⚡ **`35–45%`** | **Bundle & Load Time Reduction** | Route-level code splitting, lazy loading, `OnPush`, `trackBy` and SVG/WebP optimization, cutting page load times by **40%**. |
+| 📡 **`40% less`** | **Redundant Network Traffic** | Reactive API layer using RxJS caching, debouncing and throttling: **40%** fewer redundant calls, **30%** fewer response-handling errors. |
+| 🧩 **`50+`** | **Reusable UI Component Library** | Accessible components and validation-driven Reactive Forms that sped up feature delivery by **25%**. |
+| 📱 **`100%`** | **Offline Field Availability** | Installable **EVV PWA** with Service Workers, Workbox, background sync and encrypted storage for zero-connectivity zones. |
+| 🛡️ **`35% drop`** | **Production Defect Reduction** | Diagnosed full-stack bottlenecks across UI, REST and SQL layers; refactored legacy code and improved onboarding efficiency by **20%**. |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ AI-Powered Fitness Platform · Event-Driven Microservices
+> Distributed architecture with real-time AI coaching via **Google Gemini**, asynchronous event streaming and centralized OAuth2 security.
+
+```mermaid
+graph LR
+    A[React Frontend] -->|OAuth2 + PKCE| B(Spring Cloud Gateway)
+    B -->|Token Validation| C{Keycloak}
+    B -->|Service Discovery| D[Eureka Server]
+    B --> E[User Service · PostgreSQL]
+    B --> F[Activity Service · MongoDB]
+    F -->|Activity Event| G((Apache Kafka))
+    G -->|Consumes| H[AI Recommendation Service]
+    H -->|Prompts & Context| I[Google Gemini API]
+```
+
+- **Polyglot persistence:** independently deployable `User`, `Activity` and `AI Recommendation` services with a database-per-service pattern (**PostgreSQL** + **MongoDB**).
+- **Event-driven AI pipeline:** **Kafka** carries workout events from the Activity Service to the AI Service, which generates insights via **Gemini**.
+- **Enterprise security:** **Keycloak (OAuth2 + PKCE)**, **Spring Cloud Gateway**, **Eureka**, **Spring Cloud Config** and **Docker**.
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mongodb,docker,react&theme=dark" alt="Project 1 stack" />
+
+---
+
+### 2️⃣ Enterprise Healthcare EHR Platform
+> Full-stack Electronic Health Record platform for Human Service providers across IDD and Behavioral Health workflows.
+
+- **End-to-end ownership:** clinical modules for **Patient Records, Assessments, Medications, Attendance and Compliance Reporting**, from the Angular UI to Spring Boot APIs and SQL.
+- **Modern Angular architecture:** led the `v13 → v15 → v18 → v21` upgrade path, replacing `NgModules` with **Standalone Components**, **Signals**, **Control Flow** and **Zoneless** change detection.
+- **High-volume data tuning:** optimized SQL and Spring Data JPA repositories alongside RxJS caching (`shareReplay`, `debounceTime`, `switchMap`) for low-latency workflows.
+
+<img src="https://skillicons.dev/icons?i=angular,ts,rxjs,ngrx,materialui,java,spring,postgres&theme=dark" alt="Project 2 stack" />
+
+---
+
+### 3️⃣ Electronic Visit Verification (EVV) · Offline-First PWA
+> Installable Progressive Web App for field healthcare workers in zero-connectivity environments, with native-like reliability and no app store dependency.
+
+- **Resilient offline engine:** **Angular Service Workers** and **Workbox** caching with automated **Background Sync** on reconnect.
+- **Secure field capture:** geolocation, visit timestamps and staff verification with encrypted local persistence (`localStorage` / `IndexedDB`) for HIPAA-sensitive data.
+- **Native-like UX:** custom Web App Manifest, touch-optimized forms, install prompt and auto-update popups, validated with strong **Lighthouse** scores.
+
+<img src="https://skillicons.dev/icons?i=angular,ts,materialui,html,css&theme=dark" alt="Project 3 stack" />
+
+---
+
+## 💼 Experience & Education
+
+```yaml
+Experience:
+  - Role: Software Developer (Full Stack)
+    Domain: Enterprise Healthcare SaaS · Pune, India
+    Tenure: Jan 2023 – Present (3.9+ years)
+    Highlights:
+      - Full-stack ownership of an EHR platform and an offline-first EVV PWA.
+      - Built 50+ modular UI components, lifting team delivery velocity by 25%.
+      - Cut initial bundle size by 35–45% and API overhead by 40%.
+      - Mentored peers through code reviews and architecture docs (onboarding +20%).
+
+Education:
+  - PG-DAC (Advanced Computing) · CDAC ACTS, Pune · 2022
+  - B.E. / B.Tech · Savitribai Phule Pune University · 2019
+```
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Year | Focus |
+| :--- | :--- | :---: | :--- |
+| 🎖️ **Spring Boot Microservices** | Udemy | `2026` | Spring Cloud, Kafka, Docker |
+| 🎖️ **Java Full Stack Development** | HackerBeen | `2026` | Core Java, Spring Boot, REST, SQL |
+| 🎖️ **Angular (Intermediate)** | HackerRank | `2025/26` | RxJS, Reactive Forms, Components |
+| 🎖️ **Namaste React** | NamasteDev | `2025` | React internals, Hooks, Redux Toolkit |
+| 🎖️ **Namaste JavaScript** | NamasteDev | `2025` | Event loop, Closures, Async JS |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArjunKhade&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7F7FD5&icon_color=5EEAD4&text_color=cbd5e1&ring_color=86A8E7" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunKhade&layout=compact&hide_border=true&bg_color=0d1117&title_color=7F7FD5&text_color=cbd5e1" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=ArjunKhade&hide_border=true&background=0d1117&ring=7F7FD5&fire=5EEAD4&currStreakLabel=86A8E7&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=94a3b8" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunKhade&bg_color=0d1117&color=86A8E7&line=7F7FD5&point=5EEAD4&area=true&area_color=7F7FD5&hide_border=true" alt="Contribution Graph" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArjunKhade&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 
 </div>
 
@@ -174,12 +193,16 @@ const arjun = {
 
 <div align="center">
 
-```
-📍 Pune, Maharashtra  ·  Open to Frontend / Full Stack opportunities
-```
+### 🤝 Let's build something great together
 
-*If you've read this far — let's build something great together.*
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khadearjun@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-khade-ba825017b/)
+Looking for a **Frontend Engineer (Angular / React)** or a **Full Stack Developer (Angular + Spring Boot Microservices)** who ships from UI to database? My inbox is open.
+
+<p align="center">
+  <a href="https://modern-portfolio-eight-tawny.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Explore_My_Portfolio-7F7FD5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:khadearjun@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-5EEAD4?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/arjun-khade-ba825017b/" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-86A8E7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,50:86A8E7,100:7F7FD5&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
