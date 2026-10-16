@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated gradient wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:5EEAD4&height=200&section=header&text=Arjun%20Khade&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Angular%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservices&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e2a6b,45:6d6fd1,100:dbeafe&height=200&section=header&text=Arjun%20Khade&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Angular%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservices&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
 
 <!-- Animated typing text -->
 <a href="https://modern-portfolio-eight-tawny.vercel.app/">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/📍_Pune,_India-1e293b?style=flat-square&labelColor=0f172a" alt="Location" />
   <img src="https://img.shields.io/badge/💼_3.9%2B_Years_Experience-1e293b?style=flat-square&labelColor=0f172a" alt="Experience" />
   <img src="https://img.shields.io/badge/🟢_Open_to_Full_Stack_%2F_Frontend_Roles-0f766e?style=flat-square&labelColor=0f172a" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=ArjunKhade&label=Profile%20Views&color=7F7FD5&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/ArjunKhade.svg?style=flat-square&label=Profile%20Views&color=7F7FD5&labelColor=0f172a" alt="Profile Views" />
 </p>
 
 </div>
@@ -203,6 +203,6 @@ Looking for a **Frontend Engineer (Angular / React)** or a **Full Stack Develope
   <a href="https://www.linkedin.com/in/arjun-khade-ba825017b/" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-86A8E7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,50:86A8E7,100:7F7FD5&height=110&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e2a6b,45:6d6fd1,100:dbeafe&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
