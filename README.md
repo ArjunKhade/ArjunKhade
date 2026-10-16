@@ -60,7 +60,7 @@ const arjunKhade = {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,react,redux,rxjs,ngrx,tailwind,sass,html,css,materialui&perline=12&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,react,redux,rxjs,tailwind,sass,html,css,materialui&perline=12&theme=dark" alt="Frontend" />
 
 **Backend & Messaging**
 
@@ -127,7 +127,7 @@ graph LR
 - **Modern Angular architecture:** led the `v13 → v15 → v18 → v21` upgrade path, replacing `NgModules` with **Standalone Components**, **Signals**, **Control Flow** and **Zoneless** change detection.
 - **High-volume data tuning:** optimized SQL and Spring Data JPA repositories alongside RxJS caching (`shareReplay`, `debounceTime`, `switchMap`) for low-latency workflows.
 
-<img src="https://skillicons.dev/icons?i=angular,ts,rxjs,ngrx,materialui,java,spring,postgres&theme=dark" alt="Project 2 stack" />
+<img src="https://skillicons.dev/icons?i=angular,ts,rxjs,materialui,java,spring,postgres&theme=dark" alt="Project 2 stack" />
 
 ---
 
